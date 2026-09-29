@@ -1,7 +1,7 @@
 <?php
 
 function sayHello(){
-    return "Hello,  Rafiul" ;
+    echo "Hello,  Rafiul" ;
 }
 
 
