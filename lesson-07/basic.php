@@ -1,9 +1,9 @@
 <?php
 
-function sayHello($name){
-    return "Hello " . $name;
+function sayHello(){
+    return "Hello,  Rafiul" ;
 }
 
 
-echo sayHello("Rafiul");
+echo sayHello();
 ?>
